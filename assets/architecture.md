@@ -78,7 +78,7 @@ Workspace    = Local Folder / ZIP / GitHub Repo
                      ▼
               Vector Store (.pkl)
                      │
-──────────────── User Question ────────────────
+                User Question
                      │
                      ▼
            Semantic Retriever (Top-K)
@@ -110,7 +110,7 @@ Workspace    = Local Folder / ZIP / GitHub Repo
                         ▼
               Code Vector Store
                         │
-────────────── User Query ───────────────
+                    User Query 
                         │
                         ▼
             Semantic Code Retriever
@@ -129,10 +129,11 @@ Workspace    = Local Folder / ZIP / GitHub Repo
      Tool Router                  Ollama LLM
          │                              │
          ▼                              ▼
- Execute Tool(s)                 Final Response
+   Execute Tool(s)                 Final Response
          │
          ▼
- Tool Result → LLM → Final Response
+  Tool Result → LLM → Final Response
+
 
 ---------------------------------------------------------------------------------------------------
 
