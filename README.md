@@ -1,6 +1,6 @@
-# 🍹 A.I.R.A. — AI Research & Intelligence Assistant
+# 🍹 A.I.R.C.A. — AI Research & Coding Assistant
 
-A.I.R.A. is a Cursor-inspired AI engineering assistant that combines **General Chat**, **PDF Question Answering**, and **Codebase Understanding** into a single application.
+A.I.R.C.A. is a Cursor-inspired AI engineering assistant that combines **General Chat**, **PDF Question Answering**, and **Codebase Understanding** into a single application.
 
 Built using **Python**, **Streamlit**, **Ollama**, **Qwen3-14B**, **Sentence Transformers**, and a custom Retrieval-Augmented Generation (RAG) pipeline.
 
@@ -143,7 +143,7 @@ assets/architecture.md
 
 # 📂 Project Structure
 
-AIRA/
+AIRCA/
 │
 ├── app/
 │   ├── agents/
@@ -208,7 +208,7 @@ AIRA/
 Clone the repository
 
 ```bash
-git clone https://github.com/utkarshado/A_I_R_A-clone.git
+git clone https://github.com/utkarshado/AIRCA-clone.git
 ```
 
 Move into the project
