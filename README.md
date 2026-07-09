@@ -200,7 +200,7 @@ AIRCA/
 ├── README.md
 └── .gitignore
 ```
-
+Note: The api/ module is reserved for future FastAPI deployment. The current version runs through a Streamlit interface.
 ---------------------------------------------------------------------
 
 # 🚀 Installation
