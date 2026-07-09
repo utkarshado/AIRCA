@@ -8,14 +8,14 @@ GEMINI_API_KEY=os.environ.get("GEMINI_API_KEY")
 OLLAMA_MODEL="qwen3:14b"
 #OLLAMA_MODEL="qwen2.5-coder:14b"
 
-history_path= r"C:\Users\utkar\Downloads\ai_engineering\cursor_assistant\AIRA\app\memory\history.json"
+history_path= r"C:\Users\utkar\Downloads\ai_engineering\cursor_assistant\AIRCA\app\memory\history.json"
 
 
 PDF_PATH= r"C:\Users\utkar\Downloads\material\attention_is_all_you_need.pdf"
-PDF_STORE= r"C:\Users\utkar\Downloads\ai_engineering\cursor_assistant\AIRA\app\storage\pdf_vector_store.pkl"
+PDF_STORE= r"C:\Users\utkar\Downloads\ai_engineering\cursor_assistant\AIRCA\app\storage\pdf_vector_store.pkl"
 
 CODEBASE_PATH= r"C:\Users\utkar\Downloads\ai_engineering\simple_python_project"
-CODEBASE_STORE= r"C:\Users\utkar\Downloads\ai_engineering\cursor_assistant\AIRA\app\storage\code_vector_store.pkl"
+CODEBASE_STORE= r"C:\Users\utkar\Downloads\ai_engineering\cursor_assistant\AIRCA\app\storage\code_vector_store.pkl"
 
 valid_extensions={".py",
                     ".js",
