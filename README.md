@@ -142,7 +142,7 @@ assets/architecture.md
 ---------------------------------------------------------------------
 
 # 📂 Project Structure
-
+```
 AIRCA/
 │
 ├── app/
