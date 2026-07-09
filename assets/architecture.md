@@ -5,7 +5,7 @@ Workspace    = Local Folder / ZIP / GitHub Repo
 ---------------------------------------------------------------------------------------------------
 # PROJECT WORKFLOW
  
- 
+ ```
                                       User
                                         │
                                         │
@@ -36,9 +36,11 @@ Workspace    = Local Folder / ZIP / GitHub Repo
                                         │
                                     Streamlit UI
 
+```
 ---------------------------------------------------------------------------------------------------                 
 # WORKSPACE MANAGER
 
+```
                  User
                    │
           Streamlit Interface
@@ -59,11 +61,12 @@ Workspace    = Local Folder / ZIP / GitHub Repo
                               │
                     PDF Agent / Code Agent
 
-                    
+```                
 ---------------------------------------------------------------------------------------------------
 
 # PDF RAG WORKFLOW
 
+```
                 Uploaded PDF
                      │
                      ▼
@@ -91,11 +94,11 @@ Workspace    = Local Folder / ZIP / GitHub Repo
                      │
                      ▼
             Context-Aware Answer
-
+```
 ---------------------------------------------------------------------------------------------------
 
 # CODE RAG WORKFLOW
-
+```
           Local Folder / ZIP / GitHub Repo
                         │
                         ▼
@@ -134,11 +137,11 @@ Workspace    = Local Folder / ZIP / GitHub Repo
          ▼
   Tool Result → LLM → Final Response
 
-
+```
 ---------------------------------------------------------------------------------------------------
 
 # TOOL CALLING WORKFLOW
-
+```
            User Request
                 │
                 ▼
@@ -171,5 +174,5 @@ Workspace    = Local Folder / ZIP / GitHub Repo
                           │
                           ▼
                     Final Answer
-
+```
 
