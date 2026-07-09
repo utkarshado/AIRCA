@@ -1,0 +1,44 @@
+
+# LLM-----------------------------
+
+ollama>=0.5.1
+
+
+# Embeddings----------------------
+
+sentence-transformers>=5.0.0
+torch>=2.7.0
+transformers>=4.54.0
+
+
+# Vector Search-----------------------
+
+numpy>=2.3.1
+
+
+# PDF Processing----------------------
+
+pymupdf>=1.26.3
+
+# Backend----------------------
+
+fastapi>=0.116.1
+uvicorn>=0.35.0
+
+
+# Frontend----------------------
+
+streamlit>=1.47.0
+
+
+# Configuration----------------------
+
+python-dotenv>=1.1.1
+pydantic>=2.11.7
+pydantic-settings>=2.10.1
+
+
+# Utilities----------------------
+
+requests>=2.32.4
+tqdm>=4.67.1
