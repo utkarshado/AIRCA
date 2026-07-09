@@ -1,5 +1,5 @@
 # 📂 Project Structure
-
+```
 AIRA/
 │
 ├── app/
@@ -56,3 +56,4 @@ AIRA/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
